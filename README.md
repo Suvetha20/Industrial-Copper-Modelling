@@ -5,16 +5,23 @@
 ## Features
 
   * Predict Selling Price: Using input parameters, predict the selling price of copper.
+    
   * Predict Status: Determine whether a lead is likely to be won or lost.
 
 ## Technologies Used
 
   * Python
+    
   * Pandas
+    
   * Data Preprocessing
+    
   * Exploratory Data Analysis (EDA)
+    
   * Scikit-learn
+    
   * Streamlit
+    
 ## Installation
 
   * Clone the repository
