@@ -27,7 +27,8 @@
 
  1.Load Data: Ensure the copper.csv file is in the root directory of the project.
 
- 2.Prepare Models: The project relies on pre-trained models saved as model.pkl, scaler.pkl, t.pkl, s.pkl, cmodel.pkl, cscaler.pkl, and ct.pkl. These should be placed in the root directory as well.
+ 2.Prepare Models: The project relies on pre-trained models saved as model.pkl, scaler.pkl, t.pkl, s.pkl, cmodel.pkl, cscaler.pkl, and ct.pkl. These should be 
+   placed in the root directory as well.
 
  3.Run the App: Start the Streamlit app by running streamlit run app.py. Navigate to the provided URL to interact with the application.
 
@@ -48,11 +49,15 @@
 ## Predict Status
 
   * Inputs: Quantity in tons, thickness, width, customer ID, selling price, and other features.
+    
   * Output: Predicted lead status (Won/Lost).
 
 ## Code Structure
 
   * app.py: Main file to run the Streamlit app.
+    
   * models/: Directory to store pre-trained model files.
+    
   * data/: Directory to store data files.
+    
   * requirements.txt: List of Python packages required to run the application.
