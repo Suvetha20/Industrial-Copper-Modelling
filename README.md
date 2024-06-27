@@ -17,11 +17,11 @@
   * Streamlit
 ## Installation
 
-  Clone the repository
+  * Clone the repository
   
-  Install the required packages
+  * Install the required packages
   
-  Run the Streamlit application
+  * Run the Streamlit application
 
 ## Usage
 
