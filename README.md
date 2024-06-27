@@ -18,7 +18,9 @@ Predict Status: Determine whether a lead is likely to be won or lost.
 ## Installation
 
   Clone the repository
+  
   Install the required packages
+  
   Run the Streamlit application
 
 ## Usage
@@ -32,7 +34,9 @@ Run the App: Start the Streamlit app by running streamlit run app.py. Navigate t
 Navigate Tabs: Use the tabs in the application to switch between:
 
   * Home
+    
   * Predict Selling Price
+    
   * Predict Status
     
 Predict Selling Price
@@ -48,7 +52,7 @@ Predict Status
 
 Code Structure
 
-* app.py: Main file to run the Streamlit app.
-* models/: Directory to store pre-trained model files.
-* data/: Directory to store data files.
-* requirements.txt: List of Python packages required to run the application.
+  * app.py: Main file to run the Streamlit app.
+  * models/: Directory to store pre-trained model files.
+  * data/: Directory to store data files.
+  * requirements.txt: List of Python packages required to run the application.
