@@ -80,6 +80,11 @@ df = get_df()
 st.set_page_config(page_title= "Industrial Copper Modeling ",
                    layout= "wide",
                    initial_sidebar_state= "expanded")
+st.markdown(f""" <style>.stApp {{
+                    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttlsk2EOXkCgUMb1yaswRqflas4K9ETmdHA&s');   
+                    background-size: cover}}
+                 </style>""",unsafe_allow_html=True)
+
 
 #Title
 st.write("""
